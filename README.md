@@ -9,15 +9,12 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: 🚀->argon1025@gmail.com
+- 📫 How to reach me: argon1025@gmail.com
 - ⚡ Fun fact: 🐶❄️👍
 
+### 🚀My Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=argon1025">
-</p>
-
-### My Tech Stack
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=argon1025"></br></br>
   <img href="argon1025.github.io" src="https://img.shields.io/badge/JavaScript-f45651?style=for-the-badge&amp;logo=JavaScript&amp;labelColor=f45651&amp;logoColor=ffffff" alt="My Image">
   <img href="argon1025.github.io" src="https://img.shields.io/badge/Hexo-f45651?style=for-the-badge&amp;logo=Hexo&amp;labelColor=f45651&amp;logoColor=ffffff">
   <img href="argon1025.github.io" src="https://img.shields.io/badge/Node.js-f45651?style=for-the-badge&amp;logo=Node.js&amp;labelColor=f45651&amp;logoColor=ffffff">
