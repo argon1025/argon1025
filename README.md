@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=argon1025">
-  </br>
+</p>
+
+### My Tech Stack
+<p align="center">
+  <img href="argon1025.github.io" src="https://img.shields.io/badge/JavaScript-f45651?style=for-the-badge&amp;logo=JavaScript&amp;labelColor=f45651&amp;logoColor=ffffff" alt="My Image">
+  <img href="argon1025.github.io" src="https://img.shields.io/badge/Hexo-f45651?style=for-the-badge&amp;logo=Hexo&amp;labelColor=f45651&amp;logoColor=ffffff">
+  <img href="argon1025.github.io" src="https://img.shields.io/badge/Node.js-f45651?style=for-the-badge&amp;logo=Node.js&amp;labelColor=f45651&amp;logoColor=ffffff">
+  <img href="argon1025.github.io" src="https://img.shields.io/badge/NPM-f45651?style=for-the-badge&amp;logo=NPM&amp;labelColor=f45651&amp;logoColor=ffffff">
+  <img href="argon1025.github.io" src="https://img.shields.io/badge/Python-f45651?style=for-the-badge&amp;logo=Python&amp;labelColor=f45651&amp;logoColor=ffffff">
 </p>
