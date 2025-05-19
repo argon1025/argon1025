@@ -14,5 +14,5 @@
 ----
 
 <div align="center">
-<img width="100" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></br></br></br>
+<img width="100" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></br>2025.05.16</br></br>
 </div>
